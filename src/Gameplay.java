@@ -8,6 +8,10 @@ import java.awt.*;
 import javax.swing.*;
 import javax.swing.Timer;
 
+import java.awt.Color;
+
+import javax.swing.JFrame;
+
 public class Gameplay extends JPanel implements KeyListener, ActionListener 
 {
 	private boolean play = false;
